@@ -1,4 +1,3 @@
-# library-service/app/dependencies.py
 import aiohttp
 import os
 from fastapi import HTTPException, status
